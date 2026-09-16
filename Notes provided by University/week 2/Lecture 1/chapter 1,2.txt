@@ -1,0 +1,5 @@
+https://people.dsv.su.se/~robe/lis020/lectures/01-Introduction-variables-types-statements.html
+
+python exercises: https://people.dsv.su.se/~robe/lis020/exercises/ 
+
+test : test-lis020
